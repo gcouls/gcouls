@@ -1,3 +1,3 @@
 <p align="right">
-  <img src="https://giphy.com" width="400" />
+  <img src="https://squarespace-cdn.com" width="400" />
 </p>
